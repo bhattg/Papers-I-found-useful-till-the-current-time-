@@ -9,3 +9,15 @@
 
 # Natural Language Processing: 
 
+
+# Machine Learning:
+
+* [Practical Variational Inference for Neural Networks](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
+* [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798)
+* [Differentiable quantization of deep networks](https://arxiv.org/abs/1905.11452)
+* [End-To-End Memory Networks](https://arxiv.org/abs/1503.08895)
+* [Information Theoretic Inequalities](https://pdfs.semanticscholar.org/7db0/752f20b0ffe5f0b25455dd71efc000bb0b60.pdf)
+* [Mutual Information Neural Estimator](https://arxiv.org/abs/1801.04062)
+* [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893)
+* [Residual Networks Behave Like Ensembles of Relatively Shallow Networks](https://arxiv.org/abs/1605.06431)
+* [Recurrent Dropout without Memory Loss](https://arxiv.org/abs/1603.05118)
