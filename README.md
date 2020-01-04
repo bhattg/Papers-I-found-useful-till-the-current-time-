@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cognitive Neuroscience:
 
 * [Biologically plausible neural computation](https://www.sciencedirect.com/science/article/pii/0303264796016255)
@@ -10,8 +9,3 @@
 
 # Natural Language Processing: 
 
-* 
-=======
-# Papers-I-found-useful-till-the-current-time-
-This repository is for personal use to maintain a proper timeline about the papers I have read so far. I will maintain, my reviews on the paper and some important links including the implementations (the author's implementation) and direct links to reviews. 
->>>>>>> 8fac52955c2f7da1309c0251e75c6a2349ef3045
