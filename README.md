@@ -6,6 +6,7 @@
 * [Training Excitatory-Inhibitory Recurrent Neural Networks for Cognitive Tasks: A Simple and Flexible Framework](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004792)
 * [Task representations in neural networks trained to perform many cognitive tasks](https://www.nature.com/articles/s41593-018-0310-2)
 * [Probabilistic Decision Making by Slow Reverberation in Cortical Circuits](https://www.sciencedirect.com/science/article/pii/S0896627302010929)
+* [Reward-based training of recurrent neural networks for cognitive and value-based tasks](https://elifesciences.org/articles/21492)
 
 # Natural Language Processing: 
 
@@ -21,3 +22,4 @@
 * [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893)
 * [Residual Networks Behave Like Ensembles of Relatively Shallow Networks](https://arxiv.org/abs/1605.06431)
 * [Recurrent Dropout without Memory Loss](https://arxiv.org/abs/1603.05118)
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
