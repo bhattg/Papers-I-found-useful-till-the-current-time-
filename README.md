@@ -1,4 +1,4 @@
-# Cognitive Neuroscience:
+# Cognitive Neuroscience
 
 * [Biologically plausible neural computation](https://www.sciencedirect.com/science/article/pii/0303264796016255)
 * [Summation and multiplication: two distinct operation domains of leaky integrate-and-fire neurons](https://www.tandfonline.com/doi/abs/10.1088/0954-898X_2_4_010)
@@ -8,10 +8,10 @@
 * [Probabilistic Decision Making by Slow Reverberation in Cortical Circuits](https://www.sciencedirect.com/science/article/pii/S0896627302010929)
 * [Reward-based training of recurrent neural networks for cognitive and value-based tasks](https://elifesciences.org/articles/21492)
 
-# Natural Language Processing: 
+# Natural Language Processing
 
 
-# Machine Learning:
+# Machine Learning
 
 * [Practical Variational Inference for Neural Networks](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
 * [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798)
@@ -23,3 +23,4 @@
 * [Residual Networks Behave Like Ensembles of Relatively Shallow Networks](https://arxiv.org/abs/1605.06431)
 * [Recurrent Dropout without Memory Loss](https://arxiv.org/abs/1603.05118)
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* [A Theoretically Grounded Application of Dropout in Recurrent Neural Network](https://arxiv.org/abs/1512.05287)
