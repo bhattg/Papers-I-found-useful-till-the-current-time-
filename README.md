@@ -10,6 +10,18 @@
 
 # Natural Language Processing
 
+* [Variational Inference for Grammar Induction with Prior Knowledge](https://www.aclweb.org/anthology/P09-2001.pdf)
+* [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://arxiv.org/pdf/1703.03130.pdf)
+* [You Only Need Attention to Traverse Trees](https://www.aclweb.org/anthology/P19-1030.pdf)
+* [Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/abs/1603.08983)
+* [Assessing the ability of lstms to learn syntax-sensitive dependencies](https://www.aclweb.org/anthology/Q16-1037)
+* [Comparative Study of CNN and RNN for Natural Language Processing](https://arxiv.org/abs/1702.01923)
+* [Exploring the Syntactic Abilities of RNNs with Multi-task Learning](https://www.aclweb.org/anthology/K17-1003.pdf)
+* [Colorless green recurrent networks dream hierarchically](https://www.aclweb.org/anthology/N18-1108)
+* [NEURAL LANGUAGE MODELING BY JOINTLY LEARNING SYNTAX AND LEXICON](https://arxiv.org/abs/1711.02013)
+* [ORDERED NEURONS: INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS](https://arxiv.org/abs/1810.09536)
+* [Quantity doesn’t buy quality syntax with neural language models](https://arxiv.org/abs/1909.00111)
+
 
 # Machine Learning
 
@@ -24,3 +36,4 @@
 * [Recurrent Dropout without Memory Loss](https://arxiv.org/abs/1603.05118)
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [A Theoretically Grounded Application of Dropout in Recurrent Neural Network](https://arxiv.org/abs/1512.05287)
+* [Independent Component Analysis](https://www.sciencedirect.com/science/article/pii/S0893608000000265)
